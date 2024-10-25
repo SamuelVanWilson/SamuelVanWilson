@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 Dedicated software engineering student at SMK Negeri 5 Kabupaten Tangerang. Passionate about web development, with a growing interest in machine learning. Currently honing my skills in both front-end and back-end technologies. Eager to explore the intersection of software and AI.
 
 
